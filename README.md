@@ -1,28 +1,26 @@
 # Hi there! 👋 I'm Kiarash
 
-I'm a computer science student at Amirkabir University (Tehran Polytechnic) with a passion for deep learning and its applications in bioinformatics. Currently, I'm working at the Computational Biology Research Center (CBRC), where I'm excited to contribute to cutting-edge projects that bridge the gap between computer science and life sciences.
+I'm a computer science student at Amirkabir University (Tehran Polytechnic) with a passion for deep learning and its applications in bioinformatics. Currently, I'm working at the Computational Biology Research Center (CBRC).
 
 ## 🌱 Interests
 
-- 🧠 Deep Learning Enthusiast
+- 🧠 Deep Learning
 - 🧬 Bioinformatics and Computational Biology
 - 🖥️ Artificial Intelligence and Machine Learning
 - 💻 Coding and Problem Solving
 
 ## 💼 Current Work
 
-Currently, I'm focused on an exciting project at CBRC where I'm leveraging the power of Generative Adversarial Networks (GANs) to optimize drug candidates. My work involves:
+Currently, I'm focused on a project at CBRC where I'm leveraging the power of Generative Adversarial Networks (GANs) to optimize drug candidates. My work involves:
 
 - 🧪 Designing GAN architectures tailored for drug molecule generation
 - 🧬 Generating novel molecular structures with desired properties
 - 📈 Collaborating with domain experts to fine-tune GAN outputs for practical applications
   
-This project merges my passion for deep learning with my interest in bioinformatics, offering a unique opportunity to contribute to innovative advancements in drug discovery.
 
 ## 📚 Education
 
 - 🎓 Pursuing a Bachelor's degree in Computer Science at Amirkabir University
-- 📚 Exploring advanced courses in machine learning, data science, and bioinformatics
 
 ## 🚀 Skills
 
@@ -62,16 +60,10 @@ This project merges my passion for deep learning with my interest in bioinformat
   </div>
   <br/>
 
-  ### 💻 OS:
-  <div display="flex">
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-  </div>
-  <br/>
   
 ## 📫 Connect with Me
 
-Let's connect and learn from each other! Feel free to reach out on:
+Feel free to reach out on:
 
 <div display="flex">
     <a href="https://www.linkedin.com/in/kiarash-mokhtari-17a4371a4/">
@@ -82,5 +74,3 @@ Let's connect and learn from each other! Feel free to reach out on:
     </a>
 </div>
 <br/>
-
-Looking forward to collaborating and sharing insights with the GitHub community! 🌟
