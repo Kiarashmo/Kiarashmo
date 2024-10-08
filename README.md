@@ -1,25 +1,23 @@
 # Hi there! 👋 I'm Kiarash
 
-I'm a computer science student at Amirkabir University (Tehran Polytechnic) with a passion for deep learning and its applications in bioinformatics. Currently, I'm working at the Computational Biology Research Center (CBRC).
+I have graduated with a degree in Computer Science from Amirkabir University of Technology (Tehran Polytechnic), with a passion for deep learning and its applications in bioinformatics. Currently, I am working at the Computational Biology Research Center (CBRC).
 
 ## 🌱 Interests
 
-- 🧠 Deep Learning
+- 🧠 Deep Learning and Machine Learning
 - 🧬 Bioinformatics and Computational Biology
-- 🖥️ Artificial Intelligence and Machine Learning
 - 💻 Coding and Problem Solving
 
 ## 📚 Education
 
-- 🎓 Pursuing a Bachelor's degree in Computer Science at Amirkabir University
-  
+- 🎓 Graduated with a Bachelor's degree in Computer Science from Amirkabir University of Technology (Tehran Polytechnic)
+
 ## 💼 Current Work
 
 Currently, I'm focused on a project at CBRC where I'm leveraging the power of Generative Adversarial Networks (GANs) to optimize drug candidates. My work involves:
 
 - 🧪 Designing GAN architectures tailored for drug molecule generation
 - 🧬 Generating novel molecular structures with desired properties
-- 📈 Collaborating with domain experts to fine-tune GAN outputs for practical applications
   
 ## 📫 Connect with Me
 
