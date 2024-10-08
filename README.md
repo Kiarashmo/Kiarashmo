@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Kiarash
 
-I have graduated with a degree in Computer Science from Amirkabir University of Technology (Tehran Polytechnic), with a passion for deep learning and its applications in bioinformatics. Currently, I am working at the Computational Biology Research Center (CBRC).
+I have graduated with a degree in Computer Science from Amirkabir University of Technology (Tehran Polytechnic), with a strong passion for deep learning and its applications in bioinformatics. Currently, I am working at the [Computational Biology Research Center (CBRC)](https://bioinformatics.aut.ac.ir/).
 
 ## 🌱 Interests
 
